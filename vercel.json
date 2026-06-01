@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/sorce_kids_website.html" }
+  ]
+}
